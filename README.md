@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common type error in TypeScript, specifically when adding a number and a string. The bug is demonstrated in `bug.ts`. The solution, which involves type checking and conversion, is provided in `bugSolution.ts`.
